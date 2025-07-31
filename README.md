@@ -86,3 +86,9 @@ Implementa una función llamada ejercicio4 que recibiendo el dataframe con los d
 Implementa una función llamada ejercicio5 que recibiendo el dataframe con los datos del Titanic, devuelva en una lista el número de pasajeros que viajaban en 1ª, 2ª y 3ª clase.
 
 ## [SOLUCIÓN ACTIVIDAD 4](https://github.com/gjrangel2/CursoPythonFUNIR/blob/main/Actividad_4.ipynb)
+
+
+---------------------------------------------------------------------------------------------------------
+
+Desarrollado por:  **Geyson Rangel**
+[LinkedIn](https://www.linkedin.com/in/geyson-jair-rangel-ortega-79a022233/) 
