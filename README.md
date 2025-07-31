@@ -21,7 +21,7 @@ Completar la función para que dado dos números entéros y dos números enteros
 Completar la función para que dado el número de unidades que ha comprado un usuario de 2 productos diferentes, devolver el peso total del paquete para enviar su compra por mensajería. 
 El peso de cada unidad del producto1 es de 147 unidades y el peso de cada unidad del producto2 es de 2400 unidades. La función debe devolver únicamente el peso total.
 
-## [SOLUCIÓN:](https://github.com/gjrangel2/CursoPythonFUNIR/blob/main/Actividad_1.ipynb)
+## [SOLUCIÓN ACTIVIDAD 1](https://github.com/gjrangel2/CursoPythonFUNIR/blob/main/Actividad_1.ipynb)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -42,6 +42,7 @@ Implementa una función, llamada ejercicio4, que reciba como argumentos dos núm
 ## Ejercicio 5
 Crea una función ejercicio5 que devuelva una lista con todos los valores contenidos en una lista que se pasa por argumento pero eliminando los valores repetidos. Prueba el funcionamiento de esta función con la lista obtenida en el Ejercicio 1.
 
+## [SOLUCIÓN ACTIVIDAD 2]([https://github.com/gjrangel2/CursoPythonFUNIR/blob/main/Actividad_1.ipynb](https://github.com/gjrangel2/CursoPythonFUNIR/blob/main/Actividad_2.ipynb))
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # ACTIVIDAD 3
@@ -64,6 +65,8 @@ Implementa una clase llamada MejorNumero. Esta clase heredará las propiedades d
 En la clase MejorNumero, crea un nuevo método llamado iterar() que reciba una lista con 3 números romanos. A continuación, iterando sobre los elementos de la lista llamará a la función suma_romano(). Los posibles errores se tendrán que gestionar con excepciones (try...except...) para mostrar un mensaje y seguir ejecutando el siguiente número.
 
 **NOTA:** el mensaje de error ha de seguir el siguiente formato --> print('Ha fallado el número', 5).
+
+## [SOLUCIÓN ACTIVIDAD 3](https://github.com/gjrangel2/CursoPythonFUNIR/blob/main/Actividad_3.ipynb)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 # ACTIVIDAD 4
 
@@ -81,3 +84,5 @@ Implementa una función llamada ejercicio4 que recibiendo el dataframe con los d
 
 ## Ejercicio 5
 Implementa una función llamada ejercicio5 que recibiendo el dataframe con los datos del Titanic, devuelva en una lista el número de pasajeros que viajaban en 1ª, 2ª y 3ª clase.
+
+## [SOLUCIÓN ACTIVIDAD 4](https://github.com/gjrangel2/CursoPythonFUNIR/blob/main/Actividad_4.ipynb)
